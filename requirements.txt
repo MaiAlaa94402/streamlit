@@ -1,6 +1,6 @@
 numpy==1.26.0 --only-binary :all:
 matplotlib==3.7.3
-pandas==1.5.3
+pandas==2.1.1
 seaborn==0.13.2
 streamlit==1.38.0
 
